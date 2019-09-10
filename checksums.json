@@ -1,0 +1,11 @@
+{
+  "Gemfile": "0b0ef34a57239868636b26141342423f",
+  "README.md": "71ebe0f5620b16b1583d969a7d960e86",
+  "Rakefile": "158b889261acd98356f6e0f2a031b6b9",
+  "examples/init.pp": "c70db1406fd314857c2a112587a02a1d",
+  "lib/facter/aix_vios.rb": "96431b326ef306d75b0202b730d01e9a",
+  "manifests/init.pp": "cce3e3a9f4f9f5a6881ef1b83fee13af",
+  "metadata.json": "757803ea96384ecb99c22345550f03cf",
+  "spec/classes/init_spec.rb": "b9bf05cd4da0a9ebd02b27b5a3890692",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
