@@ -49,7 +49,7 @@ available in your classes.
 
 ## Reference
 
-$::facts['aix_vios] is the top of a small hash.  That's it.
+$::facts['aix_vios'] is the top of a small hash.  That's it.
 
 ## Limitations
 
