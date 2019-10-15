@@ -11,10 +11,12 @@
   ],
   "data_provider": null,
   "operatingsystem_support": [
-    "operatingsystem": "AIX",
-    "operatingsystemrelease": [
+    {
+      "operatingsystem": "AIX",
+      "operatingsystemrelease": [
         "6",
         "7"
       ]
+    }
   ]
 }
