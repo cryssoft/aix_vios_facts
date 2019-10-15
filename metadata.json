@@ -1,6 +1,6 @@
 {
   "name": "cryssoft-aix_vios_facts",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "author": "Chris Petersen, Crystallized Software",
   "summary": "Collects structured facts about whether an AIX system is a VIO server and what version",
   "license": "Apache-2.0",
@@ -10,5 +10,11 @@
   "dependencies": [
   ],
   "data_provider": null,
-  "os_support": "AIX"
+  "operatingsystem_support": [
+    "operatingsystem": "AIX",
+    "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+  ]
 }
